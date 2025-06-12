@@ -17,7 +17,7 @@ Dr. Su has been a Senior Member of the IEEE Geoscience and Remote Sensing Societ
 
 #### Email
 suyuanchao@ieee.org \
-suych@um.edu.mo\
+suych@um.edu.mo
 
 #### Education
 PhD, Cartography and geography information system,  Sun Yat-Sen University, Canton, China, 2015-2019 \
