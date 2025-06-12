@@ -1,6 +1,6 @@
 - IEEE Senior Member
 
--  Macao Young Scholars (2023 Macao Young Scholars Program, MYSP)
+-  Macao Young Scholar (2023 Macao Young Scholars Program, MYSP)
 
 - Shaanxi Province Youth Science and Technology Star (2023 Shaanxi Province Youth Science and Technology Star Program)
 
