@@ -6,10 +6,11 @@
 
 ---
 
-##### Associate Professor / MYSP Postdoctor Fellow
-##### Master Tutor
-##### University of Macau / Xi'an University of Science and Technology 
-##### Member of the Remote Sensing Professional Committee of the Chinese Society of Image and Graphics
+##### 🔴 Associate Professor / MYSP Postdoctor Fellow
+##### 🔴 Master Tutor
+##### 🔴 University of Macau / Xi'an University of Science and Technology 
+##### 🔴 Department of Computer and Information Science / College of Geomatics
+##### 🔴 Member of the Remote Sensing Professional Committee of the Chinese Society of Image and Graphics
 
 #####  IEEE Senior Member
 
