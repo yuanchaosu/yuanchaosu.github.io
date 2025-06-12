@@ -11,16 +11,16 @@
 
 #### Short Biography
 I received my Ph.D. degree from Sun Yat-sen University, Guangzhou, China, in 2019. 
-From 2013 to 2015, I was an Exchange Postgraduate with the Optical Laboratory, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China. From 2018 to 2019, I served as a Visiting Researcher at the University of Tennessee, Knoxville, TN, USA. Since 2019, I have been serving at Xi'an University of Science and Technology, where I hold the position of Associate Professor. I was awarded the 2023 Macau Young Scholars Program. My research interests include deep learning and remote sensing image processing.
+From 2013 to 2015, I was an Exchange Postgraduate with the Optical Laboratory, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China. From 2018 to 2019, I served as a Visiting Researcher at the University of Tennessee, Knoxville, TN, USA. Since 2019, I have been serving at Xi'an University of Science and Technology, where I hold the position of Associate Professor. In 2023, I was selected for the Macau Young Scholars Program (MYSP), a China Mainland–Macau talent cooperation project, and am currently affiliated with the University of Macau. My research interests include deep learning and remote sensing image processing.
 
 I have been a Senior Member of the IEEE Geoscience and Remote Sensing Society since 2022. Additionally, I also serve as a reviewer for many international journals, such as IEEE TPAMI, IEEE TCYB, IEEE TNNLS, IEEE TIP, and IEEE TGRS\
 
-#### Email
-suyuanchao@ieee.org \
-suych@um.edu.mo
+#### Emails
+- suyuanchao@ieee.org 
+- suych@um.edu.mo
 
-#### Education
-- PhD, Cartography and geography information system,  Sun Yat-Sen University, Canton, China, 2015-2019 \
+#### Educations
+- PhD, Cartography and geography information system,  Sun Yat-Sen University, Canton, China, 2015-2019 
 - M.Sc., Photogrammetry and Remote Sensing, Xi’an University of Science and Technology, Xi'an, China, 2012—2015 \
 - B.S., Surveying and Mapping Engineering, Xi’an University of Science and Technology, Xi'an, China, 2008—2012.
 - Exchange Postgraduate, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China, 2013/09 - 2015/08 \
@@ -33,14 +33,14 @@ Hyperspectral Remote Sensing, Deep Learning, Machine Learning, Artificial Intell
 Guest Editor of Remote Sensing
 
 #### Journal Reviewer
-IEEE Transactions on Geoscience and Remote Sensing
-IEEE Transactions on Pattern Analysis and Machine Intelligence
-IEEE Transactions on Cybernetics
-IEEE Transactions on Neural Networks and Learning Systems
-IEEE Transactions on Image Processing
-IEEE Transactions on Circuits and Systems for Video Technology
-IEEE Transactions on Big Data
-IEEE Geoscience and Remote Sensing Letters
-IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-Pattern Recognition
-Neurocomputing
+- IEEE Transactions on Geoscience and Remote Sensing
+- IEEE Transactions on Pattern Analysis and Machine Intelligence
+- IEEE Transactions on Cybernetics
+- IEEE Transactions on Neural Networks and Learning Systems
+- IEEE Transactions on Image Processing
+- IEEE Transactions on Circuits and Systems for Video Technology
+- IEEE Transactions on Big Data
+- IEEE Geoscience and Remote Sensing Letters
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
+- Pattern Recognition
+- Neurocomputing
