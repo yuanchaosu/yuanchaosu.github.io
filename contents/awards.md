@@ -1,3 +1,9 @@
+- IEEE Senior Member
+
+-  Macao Young Scholars (2023 Macao Young Scholars Program, MYSP)
+
+- Shaanxi Province Youth Science and Technology Star (2023 Shaanxi Province Youth Science and Technology Star Program)
+
 - Outstanding Report of the 8th National Academic Symposium on Imaging Earth Observation, 2024.
 
 - Second-prize National Teaching Innovation and Talent Cultivation Competition for Surveying and Mapping Discipline in Higher Education Institutions, 2023.
