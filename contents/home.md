@@ -1,10 +1,11 @@
 
 
 [![Scholar](https://img.shields.io/badge/Google_Scholar-blue?logo=google)](https://scholar.google.com/citations?user=YOUR_ID)(https://scholar.google.com/citations?user=-3MRWsgAAAAJ&hl=zh-CN) \
-[![RG‑senli1073](https://img.shields.io/badge/RG-ResearchGate-green?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Your_Profile)(https://www.researchgate.net/profile/Yuanchao-Su)
+[![RG](https://img.shields.io/badge/RG-ResearchGate-green?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Your_Profile)(https://www.researchgate.net/profile/Yuanchao-Su) \
+[![Github](https://img.shields.io/badge/github-blue?logo=github)](https://github.com/yuanchaosu?tab=repositories) \
 
 
-#### Associate Professor 
+#### Associate Professor / MYSP Postdoctor Fellow
 
 #### University of Macau / Xi'an University of Science and Technology
 
