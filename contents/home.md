@@ -2,12 +2,12 @@
 
 [![Scholar](https://img.shields.io/badge/Google_Scholar-blue?logo=google)](https://scholar.google.com/citations?user=YOUR_ID)(https://scholar.google.com/citations?user=-3MRWsgAAAAJ&hl=zh-CN) \
 [![RG](https://img.shields.io/badge/RG-ResearchGate-green?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Your_Profile)(https://www.researchgate.net/profile/Yuanchao-Su) \
-[![Github](https://img.shields.io/badge/github-blue?logo=github)](https://github.com/yuanchaosu?tab=repositories) \
+[![Github](https://img.shields.io/badge/github-blue?logo=github)](https://github.com/yuanchaosu?tab=repositories) 
 
 
 #### Associate Professor / MYSP Postdoctor Fellow
 
-#### University of Macau / Xi'an University of Science and Technology
+#### University of Macau / Xi'an University of Science and Technology \
 
 #### Short Biography
 Yuanchao Su received his Ph.D. degree from Sun Yat-sen University, Guangzhou, China, in 2019. 

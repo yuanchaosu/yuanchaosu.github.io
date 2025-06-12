@@ -1,13 +1,13 @@
-- National Scholarship of Graduate Student, 2024.
+- Outstanding Report of the 8th National Academic Symposium on Imaging Earth Observation, 2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- Second-prize National Teaching Innovation and Talent Cultivation Competition for Surveying and Mapping Discipline in Higher Education Institutions, 2023.
 
-- First-prize Scholarship of CUMT, 2023.
+- Outstanding Supervisor at the 2023 Journal of Remote Sensing Graduate Academic Forum, 2023.
 
-- Freshman Scholarship of CUMT, 2022.
+- Second-prize, Shaanxi Province Surveying and Mapping Science and Technology Progress Award, 2022.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Second-prize, The Second Graduate Academic Forum of the Journal of Image and Graphics of China, 2022.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- Outstanding Report of the 6th National Academic Symposium on Imaging Earth Observation, 2021.
 
-- First-prize Scholarship of CUMT, 2019.
+- Advanced Individual in Scientific Research Work of School of Geomechanics, Xi 'an University of Science and Technology from 2020 to 2021, 2021.
