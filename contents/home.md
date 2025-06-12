@@ -1,9 +1,9 @@
 
-
+---
 [![Scholar](https://img.shields.io/badge/Google_Scholar-blue?logo=google)](https://scholar.google.com/citations?user=-3MRWsgAAAAJ&hl=zh-CN) 
-[![RG](https://img.shields.io/badge/RG-ResearchGate-green?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yuanchao-Su)
+[![RearchGate](https://img.shields.io/badge/RG-green?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Yuanchao-Su)
 [![IEEE Xplore](https://img.shields.io/badge/IEEE_Xplore-Read-blue?logo=ieee)](https://ieeexplore.ieee.org/author/37086255521) 
-[![Github](https://img.shields.io/badge/github-blue?logo=github)](https://github.com/yuanchaosu?tab=repositories) 
+[![Github code](https://img.shields.io/badge/github-blue?logo=github)](https://github.com/yuanchaosu?tab=repositories) 
 
 ---
 
