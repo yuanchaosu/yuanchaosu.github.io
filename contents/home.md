@@ -4,39 +4,52 @@
 [![RG](https://img.shields.io/badge/RG-ResearchGate-green?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Your_Profile)(https://www.researchgate.net/profile/Yuanchao-Su) \
 [![Github](https://img.shields.io/badge/github-blue?logo=github)](https://github.com/yuanchaosu?tab=repositories) 
 
+---
 
 #### Associate Professor / MYSP Postdoctor Fellow
 
 #### University of Macau / Xi'an University of Science and Technology 
-#
-#
+
+### Member of the Remote Sensing Professional Committee of the Chinese Society of Image and Graphics
+
+
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4776-0862)
 
-#### Short Biography
+### Short Biography
 I received my Ph.D. degree from Sun Yat-sen University, Guangzhou, China, in 2019. 
 From 2013 to 2015, I was an Exchange Postgraduate with the Optical Laboratory, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China. From 2018 to 2019, I served as a Visiting Researcher at the University of Tennessee, Knoxville, TN, USA. Since 2019, I have been serving at Xi'an University of Science and Technology, where I hold the position of Associate Professor. In 2023, I was selected for the Macau Young Scholars Program (MYSP), a China Mainland–Macau talent cooperation project, and am currently affiliated with the University of Macau. My research interests include deep learning and remote sensing image processing.
 
-I have been a Senior Member of the IEEE Geoscience and Remote Sensing Society since 2022. Additionally, I also serve as a reviewer for many international journals, such as IEEE TPAMI, IEEE TCYB, IEEE TNNLS, IEEE TIP, and IEEE TGRS\
+I have been a Senior Member of the IEEE Geoscience and Remote Sensing Society since 2022. Additionally, I also serve as a reviewer for many international journals, such as IEEE TPAMI, IEEE TCYB, IEEE TNNLS, IEEE TIP, and IEEE TGRS
 
-#### Emails
+---
+
+### Emails
 - suyuanchao@ieee.org 
 - suych@um.edu.mo
 - suych3@xust.edu.cn
 
-#### Educations
-- PhD, Cartography and geography information system,  Sun Yat-Sen University, Canton, China, 2015-2019 
-- M.Sc., Photogrammetry and Remote Sensing, Xi’an University of Science and Technology, Xi'an, China, 2012—2015 \
-- B.S., Surveying and Mapping Engineering, Xi’an University of Science and Technology, Xi'an, China, 2008—2012.
-- Exchange Postgraduate, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China, 2013/09 - 2015/08 \
-- Visiting Researcher, The University of Tennessee, Knoxville, TN, USA, 2018-2019 \
+---
 
-#### Research Interests
+### Educations
+- PhD, Cartography and geography information system,  Sun Yat-Sen University, Canton, China, 2015-2019 
+- M.Sc., Photogrammetry and Remote Sensing, Xi’an University of Science and Technology, Xi'an, China, 2012—2015 
+- B.S., Surveying and Mapping Engineering, Xi’an University of Science and Technology, Xi'an, China, 2008—2012.
+- Exchange Postgraduate, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China, 2013/09 - 2015/08 
+- Visiting Researcher, The University of Tennessee, Knoxville, TN, USA, 2018-2019 
+
+---
+
+### Research Interests
 Hyperspectral Remote Sensing, Deep Learning, Machine Learning, Artificial Intelligence
 
-#### Editorial Experience
+---
+
+### Editorial Experience
 Guest Editor of Remote Sensing
 
-#### Journal Reviewer
+---
+
+### Journal Reviewer
 - IEEE Transactions on Geoscience and Remote Sensing
 - IEEE Transactions on Pattern Analysis and Machine Intelligence
 - IEEE Transactions on Cybernetics
