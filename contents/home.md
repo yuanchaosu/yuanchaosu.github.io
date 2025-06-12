@@ -12,6 +12,7 @@
 
 ##### Member of the Remote Sensing Professional Committee of the Chinese Society of Image and Graphics
 
+#####  IEEE Senior Member
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4776-0862)
 
@@ -19,7 +20,7 @@
 I received my Ph.D. degree from Sun Yat-sen University, Guangzhou, China, in 2019. 
 From 2013 to 2015, I was an Exchange Postgraduate with the Optical Laboratory, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China. From 2018 to 2019, I served as a Visiting Researcher at the University of Tennessee, Knoxville, TN, USA. Since 2019, I have been serving at Xi'an University of Science and Technology, where I hold the position of Associate Professor. In 2023, I was selected for the Macau Young Scholars Program (MYSP), a China Mainland–Macau talent cooperation project, and am currently affiliated with the University of Macau. My research interests include deep learning and remote sensing image processing.
 
-I have been a Senior Member of the IEEE Geoscience and Remote Sensing Society since 2022. Additionally, I also serve as a reviewer for many international journals, such as IEEE TPAMI, IEEE TCYB, IEEE TNNLS, IEEE TIP, and IEEE TGRS
+I have been a Senior Member of the IEEE Geoscience and Remote Sensing Society since 2022, and I also serve as a reviewer for many international journals, such as IEEE TPAMI, IEEE TCYB, IEEE TNNLS, IEEE TIP, IEEE TGRS, IEEE TBD, IEEE GRSL, IEEE JSTARRS, Elsevier PR,  and Elsevier Neurocomputing.
 
 ---
 
@@ -59,5 +60,5 @@ Guest Editor of Remote Sensing
 - IEEE Transactions on Big Data
 - IEEE Geoscience and Remote Sensing Letters
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
-- Pattern Recognition
-- Neurocomputing
+- Pattern Recognition (Elsevier)
+- Neurocomputing (Elsevier)
