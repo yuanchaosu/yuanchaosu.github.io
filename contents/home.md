@@ -7,7 +7,10 @@
 
 #### Associate Professor / MYSP Postdoctor Fellow
 
-#### University of Macau / Xi'an University of Science and Technology \
+#### University of Macau / Xi'an University of Science and Technology 
+#
+#
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4776-0862)
 
 #### Short Biography
 I received my Ph.D. degree from Sun Yat-sen University, Guangzhou, China, in 2019. 
@@ -18,6 +21,7 @@ I have been a Senior Member of the IEEE Geoscience and Remote Sensing Society si
 #### Emails
 - suyuanchao@ieee.org 
 - suych@um.edu.mo
+- suych3@xust.edu.cn
 
 #### Educations
 - PhD, Cartography and geography information system,  Sun Yat-Sen University, Canton, China, 2015-2019 
