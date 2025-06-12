@@ -1,4 +1,4 @@
-- IEEE Senior Member
+- IEEE Senior Member (Approved in 2022)
 
 -  Macao Young Scholar (2023 Macao Young Scholars Program, MYSP)
 
