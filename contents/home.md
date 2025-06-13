@@ -33,11 +33,11 @@ I have been a Senior Member of the IEEE Geoscience and Remote Sensing Society si
 ---
 
 ### Educations
-- PhD, Cartography and geography information system,  Sun Yat-Sen University, Canton, China, 2015-2019 
-- M.Sc., Photogrammetry and Remote Sensing, Xi’an University of Science and Technology, Xi'an, China, 2012—2015 
-- B.S., Surveying and Mapping Engineering, Xi’an University of Science and Technology, Xi'an, China, 2008—2012.
+- PhD, Cartography and geography information system,  Sun Yat-Sen University, Canton, China, 2015/08 — 2019/12 
+- M.Sc., Photogrammetry and Remote Sensing, Xi’an University of Science and Technology, Xi'an, China, 2012/09 — 2015/07 
+- B.S., Surveying and Mapping Engineering, Xi’an University of Science and Technology, Xi'an, China, 2008/09 — 2012/07
 - Exchange Postgraduate, Institute of Remote Sensing and Digital Earth, Chinese Academy of Sciences, Beijing, China, 2013/09 - 2015/08 
-- Visiting Researcher, The University of Tennessee, Knoxville, TN, USA, 2018-2019 
+- Visiting Researcher, The University of Tennessee, Knoxville, TN, USA, 2018/08 — 2019/08 
 
 ---
 
