@@ -40,7 +40,7 @@
 
 - J. Xu, <strong>Y. Su*</strong>, S. Li, H. Sun, K. Zheng, and M. Jiang. <strong>TSSA-Net: two-stream self-attention network for hyperspectral image super-resolution</strong> [J], Journal of Applied Remote Sensing, 2024. [[Paper]](https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-18/issue-4/042605/TSSA-Net--two-stream-self-attention-network-for-hyperspectral/10.1117/1.JRS.18.042605.short). [[Code]](https://github.com/JinJin12332131/Jars)
 
-- 游雪儿,  <strong>苏远超*</strong>, 蒋梦莹, 李朋飞, 刘东升, 白晋颖. <strong>基于嵌套式 Transformer 网络的高光谱图像空-谱解混方法</strong> [J], 中国图象图形学报, 2024. [[Paper]](http://cjig.ijournals.cn/jig/ch/reader/view_abstract.aspx?file_no=230393&flag=1)
+- 游雪儿,  <strong>苏远超*</strong>, 蒋梦莹, 李朋飞, 刘东升, 白晋颖. <strong>基于嵌套式 Transformer 网络的高光谱图像空-谱解混方法</strong> [J], 中国图象图形学报, 2024. [[Paper]](http://cjig.ijournals.cn/jig/ch/reader/view_abstract.aspx?file_no=230393&flag=1) [[Code]](https://github.com/yuanchaosu/JIG-detn)
 
 - <strong>Y Su</strong>, X. Sun, L. Gao, J. Li, and B. Zhang. <strong>Improved discrete swarm intelligence algorithms for endmember extraction from hyperspectral remote sensing images</strong> [J], Journal of Applied Remote Sensing, 2016. [[Paper]](https://www.spiedigitallibrary.org/journals/Journal-of-Applied-Remote-Sensing/volume-10/issue-4/045018/Improved-discrete-swarm-intelligence-algorithms-for-endmember-extraction-from-hyperspectral/10.1117/1.JRS.10.045018.short)
 
