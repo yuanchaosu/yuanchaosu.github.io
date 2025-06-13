@@ -13,7 +13,7 @@
 ##### 🔴 Department of Computer and Information Science / College of Geomatics
 ##### 🔴 Member of the Remote Sensing Professional Committee of the Chinese Society of Image and Graphics
 
-#####  IEEE Senior Member
+##### 🔴 IEEE Senior Member
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4776-0862)
 
