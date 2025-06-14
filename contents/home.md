@@ -60,6 +60,7 @@ Guest Editor of Remote Sensing
 - IEEE Transactions on Circuits and Systems for Video Technology
 - IEEE Transactions on Big Data
 - IEEE Transactions on Computational Imaging
+- IEEE Transactions on Multimedia
 - IEEE Geoscience and Remote Sensing Letters
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing
 - Pattern Recognition (Elsevier)
