@@ -65,3 +65,4 @@ Guest Editor of Remote Sensing
 - Pattern Recognition (Elsevier)
 - Neurocomputing (Elsevier)
 - Remote Sensing (MDPI)
+- IET Image Processing
