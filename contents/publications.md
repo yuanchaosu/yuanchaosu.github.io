@@ -12,8 +12,6 @@
 
 - M. Jiang, <strong>Y. Su*</strong>, L. Gao, A. Plaza, X.-L. Zhao, and X. Sun. <strong>GraphGST: Graph Generative Structure-Aware Transformer for Hyperspectral Image Classification</strong> [J], IEEE Transactions on Geoscience and Remote Sensing, 2024, (<strong style="color:red;">ESI</strong> highly cited paper). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10379176). [[Code]](https://github.com/yuanchaosu/TGRS-graphGST)
 
-- A. Yang, M. Li, Y. Ding, Y. Cai, J. Feng, Y. He, <strong>Y. Su</strong>. <strong>A robust low-pass filtering graph diffusion clustering framework for hyperspectral images</strong>  [J], Knowledge-Based Systems, 2025 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705125008287?via%3Dihub)
-
 - <strong>Y. Su</strong>, A. Marinoni, J Li*, J. Plaza, and P. Gamba. <strong>Stacked nonnegative sparse autoencoders for robust hyperspectral unmixing</strong> [J], IEEE Geoscience and Remote Sensing Letters, 2018. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8387431). 
 
 - X. Zhang, <strong>Y. Su</strong>, L. Gao, L. Bruzzone, X. Gu, and Q. Tian*.  <strong> A Lightweight Transformer Network for Hyperspectral Image Classification</strong> [J], IEEE Transactions on Geoscience and Remote Sensing, 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10189879)
@@ -29,6 +27,8 @@
 - M. Jiang, Y. Fang*, <strong>Y. Su</strong>, G. Cai, and G. Han. <strong>Random subspace ensemble with enhanced feature for hyperspectral image classification</strong> [J], IEEE Geoscience and Remote Sensing Letters, 2019. [[Paper]](https://ieeexplore.ieee.org/abstract/document/8887275)[[Code]](https://github.com/mengyingjiang/RSE-EF-indian)
 
 - B. Sun,  <strong>Y. Su* </strong>, H. Sun, J. Bai, P. Li, F. Liu, and D. Liu.  <strong>Generative Adversarial Autoencoder Network for Anti-Shadow Hyperspectral Unmixing</strong> [J], IEEE Geoscience and Remote Sensing Letters, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10533262)
+
+- A. Yang, M. Li, Y. Ding, Y. Cai, J. Feng, Y. He, and <strong>Y. Su</strong>. <strong>A robust low-pass filtering graph diffusion clustering framework for hyperspectral images</strong>  [J], Knowledge-Based Systems, 2025 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705125008287)
 
 - 朱治青, <strong>苏远超*</strong>, 李朋飞, 白晋颖, 刘英, 刘峰. <strong>双约束深度卷积网络的高光谱图像空谱解混方法</strong> [J], 信号处理, 2023. [[Paper]](https://signal.ejournal.org.cn/article/doi/10.16798/j.issn.1003-0530.2023.01.013)
 
