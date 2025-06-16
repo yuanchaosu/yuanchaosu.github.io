@@ -28,7 +28,7 @@
 
 - B. Sun,  <strong>Y. Su* </strong>, H. Sun, J. Bai, P. Li, F. Liu, and D. Liu.  <strong>Generative Adversarial Autoencoder Network for Anti-Shadow Hyperspectral Unmixing</strong> [J], IEEE Geoscience and Remote Sensing Letters, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10533262)
 
-- A. Yang, M. Li, Y. Ding, Y. Cai, J. Feng, Y. He, and <strong>Y. Su</strong>. <strong>A robust low-pass filtering graph diffusion clustering framework for hyperspectral images</strong>  [J], Knowledge-Based Systems, 2025 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705125008287)
+- A. Yang, M. Li, Y. Ding*, Y. Cai, J. Feng, Y. He, and <strong>Y. Su</strong>. <strong>A robust low-pass filtering graph diffusion clustering framework for hyperspectral images</strong>  [J], Knowledge-Based Systems, 2025 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705125008287)
 
 - 朱治青, <strong>苏远超*</strong>, 李朋飞, 白晋颖, 刘英, 刘峰. <strong>双约束深度卷积网络的高光谱图像空谱解混方法</strong> [J], 信号处理, 2023. [[Paper]](https://signal.ejournal.org.cn/article/doi/10.16798/j.issn.1003-0530.2023.01.013)
 
