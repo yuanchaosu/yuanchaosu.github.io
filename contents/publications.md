@@ -20,6 +20,8 @@
 
 - S. Li,  <strong>Y. Su* </strong>, X. Sun, J. Li, B. Li, J. Gao, X. Feng, and M. Jiang.  <strong>DMSN: A Deep Multi-Stream Network for Hyperspectral Image Super-Resolution</strong> [J], IEEE Geoscience and Remote Sensing Letters, 2025. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10843237). [[Code]](https://github.com/yuanchaosu/GRSL-dmsn)
 
+- J. Xu, <strong>Y. Su* </strong>, X. Sun, J. Li, H. Li, J. Gao, and X. Feng, <strong>FusGAT: Graph Attention-Based Fusion Network for Unsupervised Hyperspectral Image Super-Resolution</strong> [J], IEEE Geoscience and Remote Sensing Letters, 2025. [[Paper]](https://ieeexplore.ieee.org/document/11052309/authors#authors). [[Code]](https://github.com/yuanchaosu/FusGAT-GRSL)
+
 - M. Jiang, G. Liu*, <strong>Y. Su</strong>, and X. Wu. <strong>Self-attention empowered graph convolutional network for structure learning and node embedding</strong> [J], Pattern Recognition, 2024, [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0031320324002887).  [[Code]](https://github.com/mengyingjiang/GCN-SA)
 
 - M. Jiang, G. Liu*, <strong>Y. Su</strong>, W. Jin, and B. Zhao. <strong>Hierarchical multi-relational graph representation learning for large-scale prediction of drug-drug interactions</strong>, IEEE Transactions on Big Data, 2024. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10858423), [[Code]](https://github.com/mengyingjiang/HMGRL).
