@@ -12,7 +12,7 @@
 ##### 🔴 University of Macau / Xi'an University of Science and Technology 
 ##### 🔴 Department of Computer and Information Science / College of Geomatics
 ##### 🔴 Member of the Remote Sensing Professional Committee of the Chinese Society of Image and Graphics
-
+##### 🔴 Member of the Committee of Cross-Disciplinary Forum on Artificial Intelligence and Remote Sensing
 ##### 🔴 IEEE Senior Member
 
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-4776-0862)
@@ -41,12 +41,12 @@ I have been a Senior Member of the IEEE Geoscience and Remote Sensing Society si
 ---
 
 ### Research Interests
-Hyperspectral Remote Sensing, Deep Learning, Machine Learning, Artificial Intelligence
+Hyperspectral Remote Sensing, Data Fusion, Objective Extraction, Deep Learning, Machine Learning, Artificial Intelligence
 
 ---
 
 ### Editorial Experience
-Guest Editor of Remote Sensing
+Guest Editor of MDPI Remote Sensing
 
 ---
 
@@ -66,3 +66,4 @@ Guest Editor of Remote Sensing
 - Neurocomputing (Elsevier)
 - Remote Sensing (MDPI)
 - IET Image Processing
+- International Journal of Remote Sensing
