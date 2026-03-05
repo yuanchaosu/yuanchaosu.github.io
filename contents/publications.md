@@ -1,4 +1,4 @@
-- <strong>L.  Zhang, J. Gao, Y. Su*</strong>, X. Sun, M. Jiang, J. Chen, and R. Liu. <strong>A Diffusion Model-Based Landslide Detection Method for Optical Remote Sensing Images</strong> [J],  IEEE Geoscience and Remote Sensing Letters, 2026. [[Paper]](https://ieeexplore.ieee.org/document/11393605/authors). [[Code]](https://github.com/yuanchaosu/DMLD-GRSL)
+- L.  Zhang, J. Gao, <strong>Y. Su*</strong>, X. Sun, M. Jiang, J. Chen, and R. Liu. <strong>A Diffusion Model-Based Landslide Detection Method for Optical Remote Sensing Images</strong> [J],  IEEE Geoscience and Remote Sensing Letters, 2026. [[Paper]](https://ieeexplore.ieee.org/document/11393605/authors). [[Code]](https://github.com/yuanchaosu/DMLD-GRSL)
 
 - <strong>Y.  Su</strong>, S. Li, Y. Zhou*, L. Gao, M. Jiang, X. Sun, H. Li, and H. Enke. <strong>Dilated Transformation-Guided Unsupervised Multimodal Learning for Hyperspectral and Multispectral Image Fusion</strong> [J],  IEEE Transactions on Geoscience and Remote Sensing, 2025. [[Paper]](https://ieeexplore.ieee.org/document/11271725). [[Code]](https://github.com/yuanchaosu/TGRS-DTUML)
 
