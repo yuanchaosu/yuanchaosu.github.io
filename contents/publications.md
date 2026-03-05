@@ -1,4 +1,6 @@
-- <strong>Y.  Su</strong>, S. Li and Y. Zhou*, L. Gao, M. Jiang, X. Sun, H. Li, and H. Enke. <strong>Dilated Transformation-Guided Unsupervised Multimodal Learning for Hyperspectral and Multispectral Image Fusion</strong> [J],  IEEE Transactions on Geoscience and Remote Sensing, 2025. [[Paper]](https://ieeexplore.ieee.org/document/11271725). [[Code]](https://github.com/yuanchaosu/TGRS-DTUML)
+- <strong>L.  Zhang, J. Gao, Y. Su*</strong>, X. Sun, M. Jiang, J. Chen, and R. Liu. <strong>A Diffusion Model-Based Landslide Detection Method for Optical Remote Sensing Images</strong> [J],  IEEE Geoscience and Remote Sensing Letters, 2026. [[Paper]](https://ieeexplore.ieee.org/document/11393605/authors). [[Code]](https://github.com/yuanchaosu/DMLD-GRSL)
+
+- <strong>Y.  Su</strong>, S. Li, Y. Zhou*, L. Gao, M. Jiang, X. Sun, H. Li, and H. Enke. <strong>Dilated Transformation-Guided Unsupervised Multimodal Learning for Hyperspectral and Multispectral Image Fusion</strong> [J],  IEEE Transactions on Geoscience and Remote Sensing, 2025. [[Paper]](https://ieeexplore.ieee.org/document/11271725). [[Code]](https://github.com/yuanchaosu/TGRS-DTUML)
 
 - <strong>Y.  Su</strong>, J. Li*, A. Plaza, A. Marinoni, and P. Gamba. <strong>DAEN: Deep Autoencoder Networks for Hyperspectral Unmixing</strong> [J],  IEEE Transactions on Geoscience and Remote Sensing, 2019, (<strong style="color:red;">ESI</strong> highly cited paper). [[Paper]](https://ieeexplore.ieee.org/document/8628241). [[Code]](https://github.com/yuanchaosu/TGRS-daen.)
 
