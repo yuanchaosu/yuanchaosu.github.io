@@ -3,6 +3,7 @@
 -  Macao Young Scholar (2023 Macao Young Scholars Program, MYSP)
 
 - Shaanxi Province Youth Science and Technology Star (2023 Shaanxi Province Youth Science and Technology Star Program)
+- Beijing Science and Technology Award, First-Class Award. (Awarded in 2026)
 
 - Third Prize of Outstanding Scientific and Technological Research Achievements of Colleges and Universities in Shaanxi Province (Awarded in 2025)
 

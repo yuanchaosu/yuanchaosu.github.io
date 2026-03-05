@@ -11,6 +11,7 @@
 ##### 🔴 Doctoral Advisor and Master Advisor
 ##### 🔴 University of Macau / Xi'an University of Science and Technology 
 ##### 🔴 Department of Computer and Information Science / College of Geomatics
+##### 🔴 Member of the China Committee of the International Society for Digital Earth (ISDE)
 ##### 🔴 Member of the Remote Sensing Professional Committee of the Chinese Society of Image and Graphics
 ##### 🔴 Member of the Committee of Cross-Disciplinary Forum on Artificial Intelligence and Remote Sensing
 ##### 🔴 IEEE Senior Member
@@ -67,3 +68,4 @@ Guest Editor of MDPI Remote Sensing
 - Remote Sensing (MDPI)
 - IET Image Processing
 - International Journal of Remote Sensing
+- .......
